@@ -162,5 +162,4 @@ void ExibirTituloDaOpcao(string titulo)
 ExibirLogo();
 ExibirOpcoesDoMenu();
 
-testado
 
